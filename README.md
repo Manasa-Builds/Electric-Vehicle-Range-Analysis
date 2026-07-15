@@ -8,3 +8,7 @@ https://public.tableau.com/views/ElectricVehicleAnalysisStory/Story1?:language=e
 
 Demo Video Link:
 https://drive.google.com/file/d/1UL4JYDWUsiHwxB95uP0wEPke90G2cmUS/view?usp=sharing
+
+
+Final Report:
+https://drive.google.com/file/d/1cXHnaDV7zX0E3rUEhDj_VkElNs4lN0IC/view?usp=sharing
